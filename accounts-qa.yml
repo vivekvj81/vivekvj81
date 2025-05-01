@@ -1,0 +1,11 @@
+build:
+  version: "accounts-qa"
+
+contact-info:
+  email:
+    support: "accounts-qa"
+    general: "accounts-qa"
+  phone:
+    support: "accounts-qa"
+    general: "accounts-qa"
+  mail: "accounts-qa"

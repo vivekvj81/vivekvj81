@@ -1,0 +1,11 @@
+build:
+  version: "accounts-prod"
+
+contact-info:
+  email:
+    support: "accounts-support@eazybank.com"
+    general: "accounts-queries@eazybank.com"
+  phone:
+    support: "(789) 123-0000"
+    general: "(789) 123-0001"
+  mail: "123 Main St, New York 42587"

@@ -1,0 +1,11 @@
+build:
+  version: "loans-qa"
+
+contact-info:
+  email:
+    support: "loans-qa"
+    general: "loans-qa"
+  phone:
+    support: "loans-qa"
+    general: "loans-qa"
+  mail: "loans-qa"

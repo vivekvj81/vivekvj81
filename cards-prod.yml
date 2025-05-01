@@ -1,0 +1,11 @@
+build:
+  version: "cards-prod"
+
+contact-info:
+  email:
+    support: "cards-support@eazybank.com"
+    general: "cards-queries@eazybank.com"
+  phone:
+    support: "(789) 123-0004"
+    general: "(789) 123-0005"
+  mail: "125 Main St, New York 42587"

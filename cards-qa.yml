@@ -1,0 +1,11 @@
+build:
+  version: "cards-qa"
+
+contact-info:
+  email:
+    support: "cards-qa"
+    general: "cards-qa"
+  phone:
+    support: "cards-qa"
+    general: "cards-qa"
+  mail: "cards-qa"

@@ -1,0 +1,11 @@
+build:
+  version: "loans-local"
+
+contact-info:
+  email:
+    support: "loans-local"
+    general: "loans-local"
+  phone:
+    support: "loans-local"
+    general: "loans-local"
+  mail: "loans-local"

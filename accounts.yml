@@ -1,0 +1,11 @@
+build:
+  version: "accounts-local"
+
+contact-info:
+  email:
+    support: "accounts-local"
+    general: "accounts-local"
+  phone:
+    support: "accounts-local"
+    general: "accounts-local"
+  mail: "accounts-local"

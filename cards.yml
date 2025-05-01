@@ -1,0 +1,11 @@
+build:
+  version: "cards-local"
+
+contact-info:
+  email:
+    support: "cards-local"
+    general: "cards-local"
+  phone:
+    support: "cards-local"
+    general: "cards-local"
+  mail: "cards-local"
