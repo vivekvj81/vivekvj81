@@ -3,9 +3,9 @@ build:
 
 contact-info:
   email:
-    support: "accounts-local"
-    general: "accounts-local"
+    support: "accounts-local.1"
+    general: "accounts-local.1"
   phone:
-    support: "accounts-local"
-    general: "accounts-local"
-  mail: "accounts-local"
+    support: "accounts-local.1"
+    general: "accounts-local.1"
+  mail: "accounts-local.1"
